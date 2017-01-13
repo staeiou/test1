@@ -2,3 +2,5 @@
 
 Enjoy.
 
+Feel free to open issues and send PRs.
+
