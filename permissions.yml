@@ -1,0 +1,15 @@
+staeiou:
+  - open
+  - close
+  - tag
+  - untag
+  - merge
+  - hello
+  - backport
+  - pep8ify
+  - migrate
+  
+testuser:
+  - open
+  - close
+  - hello
